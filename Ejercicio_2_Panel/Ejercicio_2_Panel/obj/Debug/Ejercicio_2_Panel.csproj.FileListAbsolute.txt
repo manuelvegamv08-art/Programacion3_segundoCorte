@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\bin\Debug\Ejercicio_2_Panel.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\bin\Debug\Ejercicio_2_Panel.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\bin\Debug\Ejercicio_2_Panel.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\obj\Debug\Ejercicio_2_Panel.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\obj\Debug\Ejercicio_2_Panel.Form1.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\obj\Debug\Ejercicio_2_Panel.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\obj\Debug\Ejercicio_2_Panel.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\obj\Debug\Ejercicio_2_Panel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\obj\Debug\Ejercicio_2_Panel.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_2_Panel\Ejercicio_2_Panel\obj\Debug\Ejercicio_2_Panel.pdb

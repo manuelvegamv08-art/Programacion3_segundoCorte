@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\bin\Debug\Ejercicio_1_Formulario.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\bin\Debug\Ejercicio_1_Formulario.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\bin\Debug\Ejercicio_1_Formulario.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\obj\Debug\Ejercicio_1_Formulario.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\obj\Debug\Ejercicio_1_Formulario.Form1.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\obj\Debug\Ejercicio_1_Formulario.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\obj\Debug\Ejercicio_1_Formulario.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\obj\Debug\Ejercicio_1_Formulario.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\obj\Debug\Ejercicio_1_Formulario.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicio_1_Formulario\Ejercicio_1_Formulario\obj\Debug\Ejercicio_1_Formulario.pdb
