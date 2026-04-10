@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{56A141D0-63C1-43C9-9C7A-57756D880469}</ProjectGuid>
+    <ProjectGuid>{35343ADE-B2B1-4BF0-AAD8-77A27E15CA00}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ejercicio_4_TecladoCalculadora</RootNamespace>
-    <AssemblyName>Ejercicio_4_TecladoCalculadora</AssemblyName>
+    <RootNamespace>Ejercicio_5_Catalogo</RootNamespace>
+    <AssemblyName>Ejercicio_5_Catalogo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
