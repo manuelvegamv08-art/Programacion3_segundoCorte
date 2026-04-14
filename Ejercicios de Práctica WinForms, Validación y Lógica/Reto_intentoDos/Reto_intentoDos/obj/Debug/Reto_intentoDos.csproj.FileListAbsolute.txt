@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\bin\Debug\Reto_intentoDos.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\bin\Debug\Reto_intentoDos.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\bin\Debug\Reto_intentoDos.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\obj\Debug\Reto_intentoDos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\obj\Debug\Reto_intentoDos.Form1.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\obj\Debug\Reto_intentoDos.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\obj\Debug\Reto_intentoDos.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\obj\Debug\Reto_intentoDos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\obj\Debug\Reto_intentoDos.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto_intentoDos\Reto_intentoDos\obj\Debug\Reto_intentoDos.pdb

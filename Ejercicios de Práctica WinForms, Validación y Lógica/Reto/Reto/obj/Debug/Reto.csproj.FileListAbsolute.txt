@@ -1,0 +1,5 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto\Reto\obj\Debug\Reto.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto\Reto\obj\Debug\Reto.Form1.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto\Reto\obj\Debug\Reto.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto\Reto\obj\Debug\Reto.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Reto\Reto\obj\Debug\Reto.csproj.CoreCompileInputs.cache
