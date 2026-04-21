@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Programacion3_segundoCorte\\Ejercicios de Pr\u00E1ctica WinForms, Validaci\u00F3n y L\u00F3gica\\Ejercicio_1_Sistema\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F8CB31E-3A91-461C-A339-B0999CC31AC5}|Ejercicio_1_Sistema\\Ejercicio_1_Sistema.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3_segundocorte\\ejercicios de pr\u00E1ctica winforms, validaci\u00F3n y l\u00F3gica\\ejercicio_1_sistema\\ejercicio_1_sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CB31E-3A91-461C-A339-B0999CC31AC5}|Ejercicio_1_Sistema\\Ejercicio_1_Sistema.csproj|solutionrelative:ejercicio_1_sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F8CB31E-3A91-461C-A339-B0999CC31AC5}|Ejercicio_1_Sistema\\Ejercicio_1_Sistema.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3_segundocorte\\ejercicios de pr\u00E1ctica winforms, validaci\u00F3n y l\u00F3gica\\ejercicio_1_sistema\\ejercicio_1_sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F8CB31E-3A91-461C-A339-B0999CC31AC5}|Ejercicio_1_Sistema\\Ejercicio_1_Sistema.csproj|solutionrelative:ejercicio_1_sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Programacion3_segundoCorte\\Ejercicios de Pr\u00E1ctica WinForms, Validaci\u00F3n y L\u00F3gica\\Ejercicio_1_Sistema\\Ejercicio_1_Sistema\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1_Sistema\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Programacion3_segundoCorte\\Ejercicios de Pr\u00E1ctica WinForms, Validaci\u00F3n y L\u00F3gica\\Ejercicio_1_Sistema\\Ejercicio_1_Sistema\\Form1.cs",
+              "RelativeToolTip": "Ejercicio_1_Sistema\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T23:40:22.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Programacion3_segundoCorte\\Ejercicios de Pr\u00E1ctica WinForms, Validaci\u00F3n y L\u00F3gica\\Ejercicio_1_Sistema\\Ejercicio_1_Sistema\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio_1_Sistema\\Form1.cs",

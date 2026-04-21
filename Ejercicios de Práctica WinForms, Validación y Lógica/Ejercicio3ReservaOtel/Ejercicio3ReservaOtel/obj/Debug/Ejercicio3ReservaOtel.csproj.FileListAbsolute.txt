@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\bin\Debug\Ejercicio3ReservaOtel.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\bin\Debug\Ejercicio3ReservaOtel.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\bin\Debug\Ejercicio3ReservaOtel.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\obj\Debug\Ejercicio3ReservaOtel.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\obj\Debug\Ejercicio3ReservaOtel.Form1.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\obj\Debug\Ejercicio3ReservaOtel.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\obj\Debug\Ejercicio3ReservaOtel.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\obj\Debug\Ejercicio3ReservaOtel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\obj\Debug\Ejercicio3ReservaOtel.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Ejercicio3ReservaOtel\Ejercicio3ReservaOtel\obj\Debug\Ejercicio3ReservaOtel.pdb
