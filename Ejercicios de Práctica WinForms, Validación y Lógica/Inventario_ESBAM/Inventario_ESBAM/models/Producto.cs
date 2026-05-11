@@ -21,7 +21,7 @@ namespace Inventario_ESBAM.models
 
         public Producto() { }
 
-        //  CREAR
+        
         public void Crear(int id, string nombreDeProducto, string descripcionDeProducto,
                           double precio, int cantidad, int ventasDelproductoRealizadas)
         {
@@ -43,7 +43,6 @@ namespace Inventario_ESBAM.models
             File.AppendAllText(RUTA, linea + Environment.NewLine);
         }
 
-        //  LISTAR
         public List<Producto> Listar()
         {
             List<Producto> productos = new List<Producto>();
