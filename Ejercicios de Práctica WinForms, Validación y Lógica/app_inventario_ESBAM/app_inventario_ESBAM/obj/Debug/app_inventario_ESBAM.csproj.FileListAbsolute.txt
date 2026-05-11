@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\bin\Debug\app_inventario_ESBAM.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\bin\Debug\app_inventario_ESBAM.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\bin\Debug\app_inventario_ESBAM.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\obj\Debug\app_inventario_ESBAM.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\obj\Debug\app_inventario_ESBAM.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\obj\Debug\app_inventario_ESBAM.inicio.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\obj\Debug\app_inventario_ESBAM.vista.Inventario.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\obj\Debug\app_inventario_ESBAM.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\obj\Debug\app_inventario_ESBAM.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\obj\Debug\app_inventario_ESBAM.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\app_inventario_ESBAM\app_inventario_ESBAM\obj\Debug\app_inventario_ESBAM.pdb

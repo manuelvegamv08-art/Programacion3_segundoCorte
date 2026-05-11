@@ -29,27 +29,27 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.txtCliente = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.dtpEntrada = new System.Windows.Forms.DateTimePicker();
-            this.dtpSalida = new System.Windows.Forms.DateTimePicker();
+            this.numValorPersona = new System.Windows.Forms.NumericUpDown();
+            this.lblValorTotal = new System.Windows.Forms.Label();
+            this.errorProvider3 = new System.Windows.Forms.Label();
+            this.errorProvider2 = new System.Windows.Forms.Label();
+            this.errorProvider1 = new System.Windows.Forms.Label();
+            this.btnCalcularReserva = new System.Windows.Forms.Button();
+            this.clbServicios = new System.Windows.Forms.CheckedListBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.numPersonas = new System.Windows.Forms.NumericUpDown();
-            this.label4 = new System.Windows.Forms.Label();
-            this.clbServicios = new System.Windows.Forms.CheckedListBox();
-            this.rtbResumen = new System.Windows.Forms.RichTextBox();
+            this.dtpEntrada = new System.Windows.Forms.DateTimePicker();
+            this.dtpSalida = new System.Windows.Forms.DateTimePicker();
             this.label5 = new System.Windows.Forms.Label();
-            this.btnCalcularReserva = new System.Windows.Forms.Button();
-            this.errorProvider1 = new System.Windows.Forms.Label();
-            this.errorProvider2 = new System.Windows.Forms.Label();
-            this.errorProvider3 = new System.Windows.Forms.Label();
-            this.lblValorTotal = new System.Windows.Forms.Label();
-            this.numValorPersona = new System.Windows.Forms.NumericUpDown();
+            this.label4 = new System.Windows.Forms.Label();
+            this.numPersonas = new System.Windows.Forms.NumericUpDown();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtCliente = new System.Windows.Forms.TextBox();
+            this.rtbResumen = new System.Windows.Forms.RichTextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numPersonas)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numValorPersona)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numPersonas)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -78,36 +78,81 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos usuario";
             // 
-            // txtCliente
+            // numValorPersona
             // 
-            this.txtCliente.Location = new System.Drawing.Point(6, 47);
-            this.txtCliente.Name = "txtCliente";
-            this.txtCliente.Size = new System.Drawing.Size(316, 20);
-            this.txtCliente.TabIndex = 0;
+            this.numValorPersona.Location = new System.Drawing.Point(6, 151);
+            this.numValorPersona.Maximum = new decimal(new int[] {
+            10000000,
+            0,
+            0,
+            0});
+            this.numValorPersona.Name = "numValorPersona";
+            this.numValorPersona.Size = new System.Drawing.Size(120, 20);
+            this.numValorPersona.TabIndex = 11;
             // 
-            // label1
+            // lblValorTotal
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(7, 28);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Nombre";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.lblValorTotal.AutoSize = true;
+            this.lblValorTotal.Location = new System.Drawing.Point(12, 199);
+            this.lblValorTotal.Name = "lblValorTotal";
+            this.lblValorTotal.Size = new System.Drawing.Size(35, 13);
+            this.lblValorTotal.TabIndex = 10;
+            this.lblValorTotal.Text = "label6";
             // 
-            // dtpEntrada
+            // errorProvider3
             // 
-            this.dtpEntrada.Location = new System.Drawing.Point(352, 44);
-            this.dtpEntrada.Name = "dtpEntrada";
-            this.dtpEntrada.Size = new System.Drawing.Size(200, 20);
-            this.dtpEntrada.TabIndex = 2;
+            this.errorProvider3.AutoSize = true;
+            this.errorProvider3.Location = new System.Drawing.Point(202, 31);
+            this.errorProvider3.Name = "errorProvider3";
+            this.errorProvider3.Size = new System.Drawing.Size(114, 13);
+            this.errorProvider3.TabIndex = 9;
+            this.errorProvider3.Text = "ErrorCampoobligatorio*";
+            this.errorProvider3.Visible = false;
+            this.errorProvider3.Click += new System.EventHandler(this.errorProvider3_Click);
             // 
-            // dtpSalida
+            // errorProvider2
             // 
-            this.dtpSalida.Location = new System.Drawing.Point(352, 93);
-            this.dtpSalida.Name = "dtpSalida";
-            this.dtpSalida.Size = new System.Drawing.Size(200, 20);
-            this.dtpSalida.TabIndex = 3;
+            this.errorProvider2.AutoSize = true;
+            this.errorProvider2.Location = new System.Drawing.Point(132, 153);
+            this.errorProvider2.Name = "errorProvider2";
+            this.errorProvider2.Size = new System.Drawing.Size(120, 13);
+            this.errorProvider2.TabIndex = 8;
+            this.errorProvider2.Text = "Error Campo obligatorio*";
+            this.errorProvider2.Visible = false;
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.AutoSize = true;
+            this.errorProvider1.Location = new System.Drawing.Point(132, 99);
+            this.errorProvider1.Name = "errorProvider1";
+            this.errorProvider1.Size = new System.Drawing.Size(120, 13);
+            this.errorProvider1.TabIndex = 7;
+            this.errorProvider1.Text = "Error Campo obligatorio*";
+            this.errorProvider1.Visible = false;
+            // 
+            // btnCalcularReserva
+            // 
+            this.btnCalcularReserva.Location = new System.Drawing.Point(551, 165);
+            this.btnCalcularReserva.Name = "btnCalcularReserva";
+            this.btnCalcularReserva.Size = new System.Drawing.Size(165, 23);
+            this.btnCalcularReserva.TabIndex = 6;
+            this.btnCalcularReserva.Text = "Calcular la Reserva";
+            this.btnCalcularReserva.UseVisualStyleBackColor = true;
+            this.btnCalcularReserva.Click += new System.EventHandler(this.btnCalcularReserva_Click);
+            // 
+            // clbServicios
+            // 
+            this.clbServicios.FormattingEnabled = true;
+            this.clbServicios.Items.AddRange(new object[] {
+            "WIFI Premiun",
+            "Desayuno Buffet",
+            "Estacionamiento",
+            "Spa"});
+            this.clbServicios.Location = new System.Drawing.Point(352, 146);
+            this.clbServicios.Name = "clbServicios";
+            this.clbServicios.Size = new System.Drawing.Size(126, 64);
+            this.clbServicios.TabIndex = 4;
+            this.clbServicios.SelectedIndexChanged += new System.EventHandler(this.clbServicios_SelectedIndexChanged);
             // 
             // label2
             // 
@@ -128,12 +173,30 @@
             this.label3.Text = "Hora de salida del cliente";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
-            // numPersonas
+            // dtpEntrada
             // 
-            this.numPersonas.Location = new System.Drawing.Point(6, 97);
-            this.numPersonas.Name = "numPersonas";
-            this.numPersonas.Size = new System.Drawing.Size(120, 20);
-            this.numPersonas.TabIndex = 2;
+            this.dtpEntrada.Location = new System.Drawing.Point(352, 44);
+            this.dtpEntrada.Name = "dtpEntrada";
+            this.dtpEntrada.Size = new System.Drawing.Size(200, 20);
+            this.dtpEntrada.TabIndex = 2;
+            this.dtpEntrada.ValueChanged += new System.EventHandler(this.dtpEntrada_ValueChanged);
+            // 
+            // dtpSalida
+            // 
+            this.dtpSalida.Location = new System.Drawing.Point(352, 93);
+            this.dtpSalida.Name = "dtpSalida";
+            this.dtpSalida.Size = new System.Drawing.Size(200, 20);
+            this.dtpSalida.TabIndex = 3;
+            this.dtpSalida.ValueChanged += new System.EventHandler(this.dtpSalida_ValueChanged);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(7, 132);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(103, 13);
+            this.label5.TabIndex = 5;
+            this.label5.Text = "Valor de la avitacion";
             // 
             // label4
             // 
@@ -144,18 +207,30 @@
             this.label4.TabIndex = 3;
             this.label4.Text = "Cantidad de personas";
             // 
-            // clbServicios
+            // numPersonas
             // 
-            this.clbServicios.FormattingEnabled = true;
-            this.clbServicios.Items.AddRange(new object[] {
-            "WIFI Premiun",
-            "Desayuno Buffet",
-            "Estacionamiento",
-            "Spa"});
-            this.clbServicios.Location = new System.Drawing.Point(352, 146);
-            this.clbServicios.Name = "clbServicios";
-            this.clbServicios.Size = new System.Drawing.Size(126, 64);
-            this.clbServicios.TabIndex = 4;
+            this.numPersonas.Location = new System.Drawing.Point(6, 97);
+            this.numPersonas.Name = "numPersonas";
+            this.numPersonas.Size = new System.Drawing.Size(120, 20);
+            this.numPersonas.TabIndex = 2;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(7, 28);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(44, 13);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Nombre";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // txtCliente
+            // 
+            this.txtCliente.Location = new System.Drawing.Point(6, 47);
+            this.txtCliente.Name = "txtCliente";
+            this.txtCliente.Size = new System.Drawing.Size(316, 20);
+            this.txtCliente.TabIndex = 0;
+            this.txtCliente.TextChanged += new System.EventHandler(this.txtCliente_TextChanged);
             // 
             // rtbResumen
             // 
@@ -167,83 +242,12 @@
             this.rtbResumen.TabIndex = 6;
             this.rtbResumen.Text = "";
             // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(7, 132);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(103, 13);
-            this.label5.TabIndex = 5;
-            this.label5.Text = "Valor de la avitacion";
-            // 
-            // btnCalcularReserva
-            // 
-            this.btnCalcularReserva.Location = new System.Drawing.Point(551, 165);
-            this.btnCalcularReserva.Name = "btnCalcularReserva";
-            this.btnCalcularReserva.Size = new System.Drawing.Size(165, 23);
-            this.btnCalcularReserva.TabIndex = 6;
-            this.btnCalcularReserva.Text = "Calcular la Reserva";
-            this.btnCalcularReserva.UseVisualStyleBackColor = true;
-            this.btnCalcularReserva.Click += new System.EventHandler(this.btnCalcularReserva_Click);
-            // 
-            // errorProvider1
-            // 
-            this.errorProvider1.AutoSize = true;
-            this.errorProvider1.Location = new System.Drawing.Point(133, 103);
-            this.errorProvider1.Name = "errorProvider1";
-            this.errorProvider1.Size = new System.Drawing.Size(120, 13);
-            this.errorProvider1.TabIndex = 7;
-            this.errorProvider1.Text = "Error Campo obligatorio*";
-            this.errorProvider1.Visible = false;
-            // 
-            // errorProvider2
-            // 
-            this.errorProvider2.AutoSize = true;
-            this.errorProvider2.Location = new System.Drawing.Point(133, 153);
-            this.errorProvider2.Name = "errorProvider2";
-            this.errorProvider2.Size = new System.Drawing.Size(120, 13);
-            this.errorProvider2.TabIndex = 8;
-            this.errorProvider2.Text = "Error Campo obligatorio*";
-            this.errorProvider2.Visible = false;
-            // 
-            // errorProvider3
-            // 
-            this.errorProvider3.AutoSize = true;
-            this.errorProvider3.Location = new System.Drawing.Point(202, 31);
-            this.errorProvider3.Name = "errorProvider3";
-            this.errorProvider3.Size = new System.Drawing.Size(120, 13);
-            this.errorProvider3.TabIndex = 9;
-            this.errorProvider3.Text = "Error Campo obligatorio*";
-            this.errorProvider3.Visible = false;
-            // 
-            // lblValorTotal
-            // 
-            this.lblValorTotal.AutoSize = true;
-            this.lblValorTotal.Location = new System.Drawing.Point(12, 199);
-            this.lblValorTotal.Name = "lblValorTotal";
-            this.lblValorTotal.Size = new System.Drawing.Size(35, 13);
-            this.lblValorTotal.TabIndex = 10;
-            this.lblValorTotal.Text = "label6";
-            this.lblValorTotal.Visible = false;
-            // 
-            // numValorPersona
-            // 
-            this.numValorPersona.Location = new System.Drawing.Point(6, 151);
-            this.numValorPersona.Maximum = new decimal(new int[] {
-            10000000,
-            0,
-            0,
-            0});
-            this.numValorPersona.Name = "numValorPersona";
-            this.numValorPersona.Size = new System.Drawing.Size(120, 20);
-            this.numValorPersona.TabIndex = 11;
-            // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(183, 245);
+            this.label6.Location = new System.Drawing.Point(190, 213);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(382, 24);
             this.label6.TabIndex = 7;
@@ -261,8 +265,8 @@
             this.Text = "Form1";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numPersonas)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numValorPersona)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numPersonas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

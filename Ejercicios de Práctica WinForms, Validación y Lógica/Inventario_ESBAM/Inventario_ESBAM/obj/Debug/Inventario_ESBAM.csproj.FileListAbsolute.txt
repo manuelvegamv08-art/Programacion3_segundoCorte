@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.agregarProducto.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.inicio.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.inventario.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.views.informacion.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.views.RealizarVenta.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\bin\Debug\Inventario_ESBAM.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\bin\Debug\Inventario_ESBAM.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\bin\Debug\Inventario_ESBAM.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\Inventario_ESBAM\Inventario_ESBAM\obj\Debug\Inventario_ESBAM.pdb

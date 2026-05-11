@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\bin\Debug\PuntoDeVEntaESBAM.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\bin\Debug\PuntoDeVEntaESBAM.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\bin\Debug\PuntoDeVEntaESBAM.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\obj\Debug\PuntoDeVEntaESBAM.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\obj\Debug\PuntoDeVEntaESBAM.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\obj\Debug\PuntoDeVEntaESBAM.Presentacion.resources
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\obj\Debug\PuntoDeVEntaESBAM.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\obj\Debug\PuntoDeVEntaESBAM.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\obj\Debug\PuntoDeVEntaESBAM.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\Programacion3_segundoCorte\Ejercicios de Práctica WinForms, Validación y Lógica\PuntoDeVEntaESBAM\PuntoDeVEntaESBAM\obj\Debug\PuntoDeVEntaESBAM.pdb
